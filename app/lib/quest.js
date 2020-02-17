@@ -16,7 +16,7 @@ class Quest {
     }
 
     removeObjective(objective) {
-
+        this.objectives.filter(item => item !== objective);
     }
 
     updateNotes(notes) {
