@@ -1,0 +1,34 @@
+{
+    "quests": [
+        {
+            "name": "Clean bathroom",
+            "objectives": [],
+            "notes": "It is not very clean at the moment",
+            "status": "open"
+        },
+        {
+            "name": "Work on this app",
+            "objectives": [],
+            "notes": "It is not very app at the moment",
+            "status": "open"
+        },
+        {
+            "name": "Kill Radovid",
+            "objectives": [],
+            "notes": "The guy is insane",
+            "status": "open"
+        },
+        {
+            "name": "Have lunch",
+            "objectives": [],
+            "notes": "Medium priority",
+            "status": "open"
+        },
+        {
+            "name": "Finish article",
+            "objectives": [],
+            "notes": "It is not very clean at the moment",
+            "status": "open"
+        }
+    ]
+}
